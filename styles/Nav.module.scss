@@ -1,0 +1,28 @@
+.appBar {
+    background-color: rgb(220, 226, 228);
+    position: fixed;
+    top:0; left: 0; right: 0;
+    }
+
+.title {
+    flex-grow: 1;
+    align-items: 'center';
+    display: flex;
+    text-decoration: none;
+    color: #ff9259;
+}
+.logo {
+    display: inline-block;
+    margin: 20px 0px 10px 100px;
+}
+
+.grow {
+    flex-grow: 100;
+}
+
+.icon{
+    position: fixed;
+    margin:10px 0px 0px 2400px;
+}
+
+

@@ -1,0 +1,32 @@
+.main{
+    background-color: #f0f0f0;
+    height: fit-content;
+}
+
+.container {
+margin-top: 6em;
+display: flex;
+width: 1230px;
+margin-bottom: -5em;
+}
+
+.img{
+    height:200px;
+    width:200px;
+    margin: 15px;  
+}
+
+.name{
+    padding: 2.5em 0 0em 3em;
+    font-weight: bolder;
+}
+
+.number{
+    padding: 2.5em 0 0em 6em;
+    font-weight: bolder;
+    color: gray;
+}
+
+.price{
+    padding: 2.5em 0 0em 9em;
+}

@@ -1,0 +1,19 @@
+
+.media{
+    height:200px;
+    width:400px;
+    margin: 15px;  
+}
+  .cardContent {
+    display: flex;
+    justify-content: space-between;
+  }
+  .cardActions {
+    display: flex;
+    justify-content: space-between;
+  }
+  .buttons {
+    display: flex;
+    align-items: center;
+    font-size: large;
+  }
